@@ -7,7 +7,7 @@ jobs:
   build:
     runs-on: self-hosted
 
-    strategy:
+    #strategy:
       #matrix:
        # python-version: [3.8, 3.9]
 
